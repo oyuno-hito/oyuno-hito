@@ -49,6 +49,8 @@
 | <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a><a href="https://github.com/gin-gonic/gin" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/7894478?s=48&v=4" alt="gin" width="40" height="40"></a> <br>  <img src="image/Arch_Amazon-Aurora_48.png" width="40" height="40"> <img src="image/Arch_AWS-CodePipeline_48.png" width="40" height="40"> <img src="image/Arch_AWS-Lambda_48.png" width="40" height="40">  <img src="image/Arch_Amazon-Simple-Queue-Service_48.png" width="40" height="40">                                                                                                                                                                                                                                                                                                                                   | 決済システムのAPI新規開発<br>(2024~)     | サブリーダー   | ・Go+Ginを用いたAPIの開発<br>・CI/CD環境の構築(CodePipeline,CodeBuild, CodeDeploy) <br>・仔細な稼働消化率対進捗率の集計・報告(個人) <br>・SQSの送受信を用いた非同期処理の実装 <br>・Lambdaを用いたサーバーレスアプリケーションの実装 <br>・詳細設計 <br>・顧客との仕様調整(一部)<br>・PMやアーキテクトとの仕様調整・稼働調整<br>・JIRA起票・管理体制の構築フォロー<br>・稼働管理・調整実現のための効率改善 | ・遅延時のエスカレーション<br>・遅延の認識からのインテンシティの高い開発<br>・遅延解消後の稼働時間調整のためのやること洗い出し<br>・遅延解消後の稼働時間調整のための効率化<br>・アソシエイトPM・アーキテクトとの共走                   |
 
 ### 社内貢献
+<details>
+<summary> 長いのでトグル内に記載 </summary>
 
 | 活動                 | 時期                        | 期間       | 貢献内容                                          | 成長できたこと                                                                                                 | 課題点（次回に活かしたいこと）                                                  |
 |--------------------|---------------------------|----------|-----------------------------------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
@@ -66,3 +68,5 @@
 | チームオーナー            | 2024/04/23~               | 3ヶ月(現時点) | ・案件アサイン調整 <br>・チームリソマネ                        | ・                                                                                                       | ・チームメンバーの成長機会作成 <br>・チーム単位での案件アサインへの努力 <br>・チームメンバーへの健全な無茶振り機会提供 |
 | インターン受け入れ          |                           |          | ・他チームとの合同インターン受け入れ                            | ・低コストでチームがグループ貢献する方法を実践できた                                                                              |                                                                  |
 |                    |                           |          | ・インターン受け入れ                                    |                                                                                                         |                                                                  |
+
+</details>
